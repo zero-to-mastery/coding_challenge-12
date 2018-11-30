@@ -9,7 +9,7 @@ Each day Advent of Code will give you a problem to solve. Each day, the question
 1. Read the about section here: https://adventofcode.com/2018/about
 2. Watch **Santa's Node Helper** videos - Lecture 240, 241 and 242 in the Complete Web Developer in 2019 course to see me solve one of these problems. *this is optional for those that have the course*
 3. Start solving problems starting December 1st, 2018!
-4. Submit your code and share it with the rest of our community every day by following the steps below. All community code will be on a website built by @Matt and @notAnkur - https://zerotomastery.io/events/advent-of-code.html (note: You will see test entries before the challenge begins Dec 1st in order to show you how it will work. These dummy entires will be removed come the beginning of the challenge)
+4. Submit your code and share it with the rest of our community every day by following the steps below. All community code will be on a website built by @Matt and @notAnkur - https://zerotomastery.io/events/advent-of-code.html (note: You will see test entries before the challenge begins Dec 1st in order to show you how it will work. These dummy entries will be removed come the beginning of the challenge)
 
 ## How to submit and view Solutions:
 Thanks to @Matt and @notAnkur, we have a great system in place for you to submit your daily code, and compare your answer to the rest of the students who will participate in the challenge. Here is how it will work and how you can see other submissions:
