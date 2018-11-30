@@ -14,7 +14,9 @@ Each day Advent of Code will give you a problem to solve. Each day, the question
 ## How to submit your Solution:
 Thanks to @Matt and @notAnkur, we have a great system in place for you to submit your daily code, and compare your answer to the rest of the students who will participate in the challenge. Here is how it will work and how you can see other submissions:
 
-#Submit
+1. Add your solution to a platform such as Github, Repl.it, Glot.io and grab the link for it.
+2. Head on over to #coding-challenge
+![Channel Listing](https://cdn.discordapp.com/attachments/486857368249040906/518019412838842368/unknown.png)
 
 
 *** **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
