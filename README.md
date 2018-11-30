@@ -11,12 +11,20 @@ Each day Advent of Code will give you a problem to solve. Each day, the question
 3. Start solving problems starting December 1st, 2018!
 4. Submit your code and share it with the rest of our community every day by following the steps below:
 
-## How to submit your Solution:
+## How to submit and view Solutions:
 Thanks to @Matt and @notAnkur, we have a great system in place for you to submit your daily code, and compare your answer to the rest of the students who will participate in the challenge. Here is how it will work and how you can see other submissions:
 
+### Submit your solution
 1. Add your solution to a platform such as Github, Repl.it, Glot.io and grab the link for it.
 2. Head on over to #coding-challenge
+3. Use the following command structure to infrom the bot of your solution (See examples):
+   +aoc submit <Day> <URL-Link> <Solution Language>
+4. If successful you should have a parrot emoji and your solution will be list in #solutions and on the website
+
 ![Channel Listing](https://cdn.discordapp.com/attachments/486857368249040906/518019412838842368/unknown.png)
+
+### View Solutions
+Solutions will obviously be listed in the #submissions channel on Discord, but we also have a web interface available, with sorting and filtering capabilities [here](https://zerotomastery.io/events/advent-of-code.html). 
 
 
 *** **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
