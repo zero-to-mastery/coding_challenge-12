@@ -18,20 +18,25 @@ Thanks to @Matt and @notAnkur, we have a great system in place for you to submit
 1. Add your solution to a platform such as Github, Repl.it, Glot.io and grab the link for it.
 2. Head on over to #coding-challenge
 3. Use the following command structure to infrom the bot of your solution (See examples):
-   ```+aoc submit <Day> <URL-Link> <Solution Language>```
+ ```+aoc submit <Day> <URL-Link> <Solution Language>```
 4. If successful you should have a parrot emoji and your solution will be list in #solutions and on the website
 
 ![Channel Listing](https://cdn.discordapp.com/attachments/486857368249040906/518019412838842368/unknown.png)
 
-###### Examples
-  ```+aoc submit 1 https://mylink.com/ javascript```
+#### Examples
+```+aoc submit 1 https://mylink.com/ javascript```
+
 ```+aoc submit 4 https://github.com/test/link python```
+
 ```+aoc submit 24 https://tests.com/ssj py```
+
 ```+aoc submit 4 https://mttadddadasejs.com/sssj js```
+
 ```+aoc submit 4 https://mttejs.net/ssj java```
 
 ### View Solutions
 Solutions will obviously be listed in the #submissions channel on Discord, but we also have a web interface available, with sorting and filtering capabilities [here](https://zerotomastery.io/events/advent-of-code.html). 
 
 
-*** **Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
+## Disclaimer
+**Please note: As with all my challenges there is zero benefit or monetary gain I receive from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
