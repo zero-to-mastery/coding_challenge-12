@@ -19,7 +19,7 @@ Thanks to @Matt and @notAnkur, we have a great system in place for you to submit
 2. Head on over to #coding-challenge
 3. Use the following command structure to infrom the bot of your solution (See examples):
  ```+aoc submit <Day> <URL-Link> <Solution Language>```
-4. If successful you should have a parrot emoji and your solution will be list in #submissions and on the website: https://zerotomastery.io/events/advent-of-code.html
+4. If successful you should have a parrot emoji and your solution will be list in #submissions and on the website: https://zerotomastery.io/events/advent-of-code.html (note: You will see test entries before the challenge begins Dec 1st in order to show you how it will work. These dummy entires will be removed come the beginning of the challenge)
 
 ![Channel Listing](https://cdn.discordapp.com/attachments/486857368249040906/518019412838842368/unknown.png)
 
